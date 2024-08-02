@@ -1,0 +1,37 @@
+{
+    "shortcuts": {},
+    "account_types": [
+        "Valorant",
+        "league of legends",
+        "Hotmail & Outlook"
+    ],
+    "blocked_users": [],
+    "allowed_channels": [],
+    "allow_all_channels": true,
+    "enabled": true,
+    "user_daily_limits": {},
+    "daily_limit": 5,
+    "unlimited_access": false,
+    "user_data": {
+        "7342561936": {
+            "last_activity": "2024-08-02T17:09:03.435211",
+            "username": null,
+            "last_use": "2024-08-02T17:09:03.435211",
+            "use_count": 1
+        },
+        "7342561936": {
+            "last_activity": "2024-08-02T17:10:44.304464",
+            "username": null,
+            "last_use": "2024-08-02T17:10:44.304464",
+            "use_count": 3
+        }
+    },
+    "maintenance_mode": false,
+    "premium_users": [],
+    "user_requests": {},
+    "premium_daily_limit": 50,
+    "unlimited_access_premium_plus": false,
+    "premium_plus_users": [],
+    "premium_plus_daily_limit": 100,
+    "admins": []
+}
